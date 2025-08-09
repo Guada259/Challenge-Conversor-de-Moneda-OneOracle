@@ -34,10 +34,12 @@ Menu
 2) Peso Argentino ==> Dólar
 3) Dólar ==> Real Brasileño
 4) Real Brasileño ==> Dólar
-5)Dólar ==> Peso Colombiano
+5) Dólar ==> Peso Colombiano
 6) Peso Colombiano ==> Dólar
 7) Salir
 ```
+![ConversorDeMonedas-EjemploDeUso](ConversorDeMonedas-EjemploDeUso.gif)
+
 
 ---
 
